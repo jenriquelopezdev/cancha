@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search">Buscar</string>
+    <string name="city_search">Escribi tu ciudad</string>
+    <string name="title_activity_tab">tabActivity</string>
+    <string name="tab_text_1">Activas</string>
+    <string name="tab_text_2">Pasadas</string>
+    <string name="tab_text_3">Canceladas</string>
+    <string name="reservations">Mis Reservas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="details">Detalles</string>
+</resources>
